@@ -1,0 +1,1 @@
+!function(a){"use strict";a("#the-list").sortable({items:"tr",opacity:.6,cursor:"move",axis:"y",update:function(){var b=a(this).sortable("serialize")+"&action=wdfa_order_update_taxonomies";a.post(ajaxurl,b,function(a){})}})}(jQuery);

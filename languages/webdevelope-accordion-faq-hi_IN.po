@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: iProDev Accordion Faq\n"
+"POT-Creation-Date: 2018-11-05 00:06+0330\n"
+"PO-Revision-Date: 2018-11-05 00:55+0330\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: webdevelope-accordion-faq.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: hi_IN\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:69
+#: admin/class-webdevelope-accordion-faq-admin.php:174
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-webdevelope-accordion-faq-admin.php:87
+msgid "Question"
+msgstr "सवाल"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:88
+#: admin/class-webdevelope-accordion-faq-admin.php:273
+msgid "Category"
+msgstr "वर्ग"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:146
+msgid "Select Category"
+msgstr "श्रेणी का चयन करें"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:240
+msgid "FAQ Articles"
+msgstr "अकसर किये गए सवाल लेख"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:242
+#: admin/class-webdevelope-accordion-faq-admin.php:244
+msgid "FAQ"
+msgstr "सामान्य प्रश्न"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:243
+msgid "All FAQs"
+msgstr "सभी सामान्य प्रश्न"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:245
+msgid "Add New"
+msgstr "नया जोड़ें"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:246
+msgid "Add New FAQ"
+msgstr "नया एफएक्यू जोड़ें"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:247
+msgid "Edit FAQ"
+msgstr "एफएक्यू संपादित करें"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:248
+msgid "New FAQ"
+msgstr "नया एफएक्यू"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:249
+msgid "View FAQ"
+msgstr "एफएक्यू देखें"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:250
+msgid "Search FAQ"
+msgstr "खोज अकसर किये गए सवाल"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:251
+msgid "No FAQ found"
+msgstr "कोई एफएक्यू नहीं मिला"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:252
+msgid "No FAQ found in Trash"
+msgstr "ट्रैश में कोई एफएक्यू नहीं मिला"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:272
+#: admin/class-webdevelope-accordion-faq-admin.php:283
+msgid "Categories"
+msgstr "श्रेणियाँ"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:274
+msgid "Search Categories"
+msgstr "खोज श्रेणियाँ"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:275
+msgid "All Categories"
+msgstr "सब वर्ग"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:276
+msgid "Parent Category"
+msgstr "अभिभावक श्रेणी"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:277
+msgid "Parent Category:"
+msgstr "अभिभावक श्रेणी:"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:278
+msgid "Edit Category"
+msgstr "श्रेणी संपादित करें"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:279
+msgid "Update Category"
+msgstr "अद्यतन श्रेणी"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:280
+msgid "Add New Category"
+msgstr "नई श्रेणी जोड़ें"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:281
+msgid "New Category Name"
+msgstr "नया श्रेणी का नाम"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:298
+msgid "Faq Shortcodes"
+msgstr "फैक शॉर्टकोड"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:300
+msgid "<h2>Faq Shortcodes</h2>"
+msgstr "<h2> फ़ैक शॉर्टकोड </ h2>"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:301
+msgid ""
+"You can use <code>[wdfa_faq]</code> shortcode to include the Faqs on any "
+"page, post or custom post type."
+msgstr ""
+"किसी भी पेज, पोस्ट या कस्टम पोस्ट प्रकार पर फ़ैक्स को शामिल करने के लिए आप <code> "
+"[wdfa_faq] </ code> शोर्ट का उपयोग कर सकते हैं।"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:302
+msgid "The shortcode accepts two optional attributes:"
+msgstr "शोर्ट दो वैकल्पिक विशेषताओं को स्वीकार करता है:"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:303
+msgid "(1) <b>category</b> = <i>-1</i> <b>|</b> <i>{any faq category id}</i>"
+msgstr ""
+"(1) <बी> श्रेणी </ b> = <i> -1 </ i> <b> | </ b> <i> {किसी भी faq श्रेणी आईडी} "
+"</ i>"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:304
+msgid ""
+"(2) <b>template</b> = <i>accordion</i> <b>|</b> <i>{any custom/existing "
+"template}</i>"
+msgstr ""
+"(2) <b> टेम्पलेट </ b> = <i> accordion </ i> <b> | </ b> <i> {कोई कस्टम / मौजूदा "
+"टेम्पलेट} </ i>"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:305
+msgid "<b>Examples</b>"
+msgstr "<B> उदाहरण </ b>"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:306
+msgid "1. <code>[wdfa_faq]</code>"
+msgstr "1. <कोड> [wdfa_faq] </ code>"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:307
+#, php-format
+msgid ""
+"2. <code>[wdfa_faq category={category_id}]</code> {category_id} you will "
+"find it <a href=\"%s\">here</a> under shortcode column"
+msgstr ""
+"2. <code> [wdfa_faq श्रेणी = {category_id}] </ code> {category_id} आपको शोर्ट "
+"कॉलम के तहत <a href=\"%s\"> यहां </a> मिलेगा"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:308
+msgid "3. <code>[wdfa_faq category={category_id} template='accordion']</code>"
+msgstr "3. <कोड> [wdfa_faq श्रेणी = {category_id} टेम्पलेट = 'accordion'] </ code>"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:356
+#: includes/options/framework.config.php:8
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:371
+msgid "Help"
+msgstr "मदद"
+
+#: includes/cron.class.php:161 includes/cron.class.php:178
+msgid "Bad Request"
+msgstr "खराब अनुरोध"
+
+#: includes/options/framework.config.php:7
+msgid "Accordion Faq Settings"
+msgstr "Accordion फैक सेटिंग्स"
+
+#: includes/options/framework.config.php:26
+msgid "General"
+msgstr "सामान्य"
+
+#: includes/options/framework.config.php:30
+msgid "Drag & Drop Reorder"
+msgstr "ड्रैग और ड्रॉप रीडर"
+
+#: includes/options/framework.config.php:38
+msgid "Closed Icon"
+msgstr "बंद आइकन"
+
+#: includes/options/framework.config.php:44
+msgid "Opened Icon"
+msgstr "खुला आइकन"
+
+#: includes/options/framework.config.php:76
+msgid "Custom CSS"
+msgstr "कस्टम सीएसएस"
+
+#: includes/options/shortcode.config.php:12
+msgid "iProDev Accordion FAQ"
+msgstr "iProDev Accordion अकसर किये गए सवाल"
+
+#: includes/options/shortcode.config.php:16
+msgid "Insert FAQs"
+msgstr "एफएक्यू डालें"
+
+#: includes/options/shortcode.config.php:21
+msgid "Template"
+msgstr "खाका"
+
+#: includes/options/shortcode.config.php:23
+msgid "List"
+msgstr "सूची"
+
+#: includes/options/shortcode.config.php:24
+msgid "Accordion"
+msgstr "अकॉर्डियन"
+
+#: includes/options/shortcode.config.php:25
+msgid "Block"
+msgstr "खंड"
+
+#: includes/options/shortcode.config.php:26
+msgid "Excerpt"
+msgstr "अंश"
+
+#: includes/options/shortcode.config.php:33
+msgid "Faq Category"
+msgstr "ExcerptFaq श्रेणी"
+
+#: includes/options/shortcode.config.php:44
+msgid "Use Search?"
+msgstr "खोज का प्रयोग करें?"
+
+#: includes/options/shortcode.config.php:50
+msgid "Background Color"
+msgstr "पीछे का रंग"
+
+#: includes/options/shortcode.config.php:65
+msgid "Icon Color"
+msgstr "आइकन रंग"
+
+#: includes/options/shortcode.config.php:72
+msgid "Icon Background Color"
+msgstr "आइकन पृष्ठभूमि रंग"
+
+#: includes/skelet/classes/framework.class.php:197
+msgid "Success. Imported backup options."
+msgstr "सफलता। आयातित बैकअप विकल्प।"
+
+#: includes/skelet/classes/framework.class.php:202
+msgid "Default options restored."
+msgstr "默认选项已恢复。"
+
+#: includes/skelet/classes/framework.class.php:221
+msgid "Default options restored for only this section."
+msgstr "仅为此部分恢复默认选项。"
+
+#: includes/skelet/classes/framework.class.php:405
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: includes/skelet/classes/framework.class.php:406
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: includes/skelet/classes/framework.class.php:406
+msgid "Saving..."
+msgstr "保存..."
+
+#: includes/skelet/classes/framework.class.php:407
+msgid "Restore"
+msgstr "恢复"
+
+#: includes/skelet/classes/options.class.php:126
+msgid "CONFIG"
+msgstr ""
+
+#: includes/skelet/classes/options.class.php:132
+msgid "USAGE"
+msgstr "用法"
+
+#: includes/skelet/classes/options.class.php:138
+msgid "VALUE"
+msgstr "值"
+
+#: includes/skelet/classes/options.class.php:214
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: includes/skelet/classes/shortcode.class.php:83
+#: includes/skelet/classes/shortcode.class.php:91
+#: includes/skelet/fields/textarea/textarea.php:29
+msgid "Add Shortcode"
+msgstr "添加短代码"
+
+#: includes/skelet/classes/shortcode.class.php:93
+msgid "Select a shortcode"
+msgstr "选择一个短代码"
+
+#: includes/skelet/classes/shortcode.class.php:109
+msgid "Insert Shortcode"
+msgstr "插入短代码"
+
+#: includes/skelet/fields/background/background.php:32
+#: includes/skelet/fields/background/background.php:33
+#: includes/skelet/fields/upload/upload.php:25
+#: includes/skelet/fields/upload/upload.php:26
+msgid "Upload"
+msgstr "上传"
+
+#: includes/skelet/fields/background/background.php:34
+#: includes/skelet/fields/upload/upload.php:27
+msgid "Use Image"
+msgstr "使用图片"
+
+#: includes/skelet/fields/backup/backup.php:22
+msgid "Import a Backup"
+msgstr "导入备份"
+
+#: includes/skelet/fields/backup/backup.php:23
+msgid "copy-paste your backup string here"
+msgstr "在此处复制粘贴备份字符串"
+
+#: includes/skelet/fields/backup/backup.php:28
+msgid "Export and Download Backup"
+msgstr "导出和下载备份"
+
+#: includes/skelet/fields/backup/backup.php:29
+msgid "or"
+msgstr "要么"
+
+#: includes/skelet/fields/backup/backup.php:30
+msgid "!!! Reset All Options !!!"
+msgstr "！ 重置所有选项！"
+
+#: includes/skelet/fields/backup/backup.php:31
+msgid "Please be sure for reset all of framework options."
+msgstr "请确保重置所有框架选项。"
+
+#: includes/skelet/fields/gallery/gallery.php:23
+msgid "Add Gallery"
+msgstr "添加图库"
+
+#: includes/skelet/fields/gallery/gallery.php:24
+msgid "Edit Gallery"
+msgstr "编辑图库"
+
+#: includes/skelet/fields/gallery/gallery.php:25
+msgid "Clear"
+msgstr "明确"
+
+#: includes/skelet/fields/group/group.php:23
+msgid "Adding"
+msgstr "添加"
+
+#: includes/skelet/fields/group/group.php:45
+#: includes/skelet/fields/group/group.php:77
+msgid "Remove"
+msgstr "去掉"
+
+#: includes/skelet/fields/icon/icon.php:27
+#: includes/skelet/functions/actions.php:55
+msgid "Add Icon"
+msgstr "添加图标"
+
+#: includes/skelet/fields/icon/icon.php:28
+msgid "Remove Icon"
+msgstr "删除图标"
+
+#: includes/skelet/fields/image/image.php:24
+msgid "Add Image"
+msgstr "添加图片"
+
+#: includes/skelet/fields/sorter/sorter.php:26
+msgid "Enabled Modules"
+msgstr "启用模块"
+
+#: includes/skelet/fields/sorter/sorter.php:27
+msgid "Disabled Modules"
+msgstr "禁用模块"
+
+#: includes/skelet/fields/switcher/switcher.php:22
+msgid "on"
+msgstr "上"
+
+#: includes/skelet/fields/switcher/switcher.php:22
+msgid "off"
+msgstr "离"
+
+#: includes/skelet/fields/typography/typography.php:75
+msgid "Web Safe Fonts"
+msgstr "Web安全字体"
+
+#: includes/skelet/fields/typography/typography.php:81
+msgid "Google Fonts"
+msgstr "谷歌字体"
+
+#: includes/skelet/fields/typography/typography.php:109
+#: includes/skelet/functions/actions.php:30
+msgid "Error! Can not load json file."
+msgstr "错误！ 无法加载json文件。"
+
+#: includes/skelet/functions/actions.php:56
+msgid "Search a Icon..."
+msgstr "搜索图标..."
+
+#: includes/skelet/functions/actions.php:57
+msgid "Loading..."
+msgstr "载入中..."
+
+#: includes/skelet/functions/helpers.php:50
+msgid "This field class is not available!"
+msgstr "此字段类不可用！"
+
+#: includes/skelet/functions/helpers.php:610
+msgid "Select media"
+msgstr "选择媒体"
+
+#: includes/skelet/functions/helpers.php:659
+#, php-format
+msgid "The option type <code>%s</code> is not yet implemented"
+msgstr ""
+
+#: includes/skelet/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr "请写一个有效的电子邮件地址！"
+
+#: includes/skelet/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr "请写一个数字数据！"
+
+#: includes/skelet/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr "致命错误！ 这是必填栏！"
+
+#: public/partials/webdevelope-accordion-faq-public-accordion.php:6
+#: public/partials/webdevelope-accordion-faq-public-block.php:6
+#: public/partials/webdevelope-accordion-faq-public-excerpt.php:6
+#: public/partials/webdevelope-accordion-faq-public-list.php:6
+msgid "No Faq Found"
+msgstr "找不到常见问题"
+
+#: public/partials/webdevelope-accordion-faq-public-accordion.php:27
+#: public/partials/webdevelope-accordion-faq-public-block.php:31
+#: public/partials/webdevelope-accordion-faq-public-excerpt.php:27
+#: public/partials/webdevelope-accordion-faq-public-list.php:16
+msgid "Search..."
+msgstr "搜索..."
+
+#: public/partials/webdevelope-accordion-faq-public-list.php:64
+#: public/partials/webdevelope-accordion-faq-public-list.php:97
+msgid "Back To Top"
+msgstr "回到顶部"
+
+#. Plugin Name of the plugin/theme
+msgid "WebDevelope Accordion Faq"
+msgstr "WebDevelope手风琴常见问题解答"
+
+#. Description of the plugin/theme
+msgid ""
+"Address user concerns and increase your site conversions with WebDevelope FAQs"
+msgstr ""
+"Address user concerns and increase your site conversions with WebDevelope FAQs"
+
+#. Author of the plugin/theme
+msgid "WebDevelope"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://webdevelope.net"
+msgstr ""

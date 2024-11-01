@@ -1,0 +1,473 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: iProDev Accordion Faq\n"
+"POT-Creation-Date: 2018-10-17 00:17+0330\n"
+"PO-Revision-Date: 2018-10-20 10:53+0330\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: webdevelope-accordion-faq.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: fa_IR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:69
+#: admin/class-webdevelope-accordion-faq-admin.php:174
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-webdevelope-accordion-faq-admin.php:87
+msgid "Question"
+msgstr ""
+
+#: admin/class-webdevelope-accordion-faq-admin.php:88
+#: admin/class-webdevelope-accordion-faq-admin.php:273
+msgid "Category"
+msgstr "دسته"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:146
+msgid "Select Category"
+msgstr "انتخاب دسته ها"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:240
+msgid "FAQ Articles"
+msgstr "سوالات متداول مقالات"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:242
+#: admin/class-webdevelope-accordion-faq-admin.php:244
+msgid "FAQ"
+msgstr "سوالات متداول"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:243
+msgid "All FAQs"
+msgstr "تمام سوالات متداول"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:245
+msgid "Add New"
+msgstr "اضافه کردن جدید"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:246
+msgid "Add New FAQ"
+msgstr "اضافه کردن سوالات متداول جدید"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:247
+msgid "Edit FAQ"
+msgstr "ویرایش سوالات متداول"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:248
+msgid "New FAQ"
+msgstr "سوالات متداول جدید"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:249
+msgid "View FAQ"
+msgstr "نمایش سوالات متداول "
+
+#: admin/class-webdevelope-accordion-faq-admin.php:250
+msgid "Search FAQ"
+msgstr "جستجو سوالات متداول "
+
+#: admin/class-webdevelope-accordion-faq-admin.php:251
+msgid "No FAQ found"
+msgstr "سوالات متداول پیدا نشد"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:252
+msgid "No FAQ found in Trash"
+msgstr "هیچ سؤالی در «حذف شده ها» یافت نشد"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:272
+#: admin/class-webdevelope-accordion-faq-admin.php:283
+msgid "Categories"
+msgstr "دسته ها"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:274
+msgid "Search Categories"
+msgstr "جستجو در دسته ها"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:275
+msgid "All Categories"
+msgstr "تمام دسته ها"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:276
+msgid "Parent Category"
+msgstr "مرجع دسته بندی"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:277
+msgid "Parent Category:"
+msgstr "مرجع دسته بندی :"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:278
+msgid "Edit Category"
+msgstr "ویرایش دسته "
+
+#: admin/class-webdevelope-accordion-faq-admin.php:279
+msgid "Update Category"
+msgstr "به روز رسانی  دسته "
+
+#: admin/class-webdevelope-accordion-faq-admin.php:280
+msgid "Add New Category"
+msgstr "اضافه کردن دسته جدید"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:281
+msgid "New Category Name"
+msgstr "نام دسته جدید"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:298
+msgid "Faq Shortcodes"
+msgstr "شورت کد سوالات متداول"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:300
+msgid "<h2>Faq Shortcodes</h2>"
+msgstr "<h2>شورت کد سوالات متداول</h2>"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:301
+msgid ""
+"You can use <code>[wdfa_faq]</code> shortcode to include the Faqs on any "
+"page, post or custom post type."
+msgstr ""
+"شما می توانید از کد کوتاه  <code>[wdfa_faq]</code>  استفاده کنید تا Faqs را "
+"در هر صفحه، پست یا نوع سفارشی قرار دهید."
+
+#: admin/class-webdevelope-accordion-faq-admin.php:302
+msgid "The shortcode accepts two optional attributes:"
+msgstr ""
+
+#: admin/class-webdevelope-accordion-faq-admin.php:303
+msgid "(1) <b>category</b> = <i>-1</i> <b>|</b> <i>{any faq category id}</i>"
+msgstr ""
+
+#: admin/class-webdevelope-accordion-faq-admin.php:304
+msgid ""
+"(2) <b>template</b> = <i>accordion</i> <b>|</b> <i>{any custom/existing "
+"template}</i>"
+msgstr ""
+
+#: admin/class-webdevelope-accordion-faq-admin.php:305
+msgid "<b>Examples</b>"
+msgstr "<b>نمونه</b>"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:306
+msgid "1. <code>[wdfa_faq]</code>"
+msgstr ""
+
+#: admin/class-webdevelope-accordion-faq-admin.php:307
+#, php-format
+msgid ""
+"2. <code>[wdfa_faq category={category_id}]</code> {category_id} you will "
+"find it <a href=\"%s\">here</a> under shortcode column"
+msgstr ""
+
+#: admin/class-webdevelope-accordion-faq-admin.php:308
+msgid "3. <code>[wdfa_faq category={category_id} template='accordion']</code>"
+msgstr ""
+
+#: admin/class-webdevelope-accordion-faq-admin.php:356
+#: includes/options/framework.config.php:8
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: admin/class-webdevelope-accordion-faq-admin.php:371
+msgid "Help"
+msgstr "کمک"
+
+#: includes/options/framework.config.php:7
+msgid "Accordion Faq Settings"
+msgstr ""
+
+#: includes/options/framework.config.php:26
+msgid "General"
+msgstr "عمومی"
+
+#: includes/options/framework.config.php:30
+msgid "Drag & Drop Reorder"
+msgstr "کشیدن و رها کردن مجدد"
+
+#: includes/options/framework.config.php:38
+msgid "Closed Icon"
+msgstr "آیکون بسته"
+
+#: includes/options/framework.config.php:44
+msgid "Opened Icon"
+msgstr "نماد باز شدن ایکون"
+
+#: includes/options/framework.config.php:64
+msgid "Custom CSS"
+msgstr "CSS سفارشی"
+
+#: includes/options/shortcode.config.php:12
+msgid "iProDev Accordion FAQ"
+msgstr ""
+
+#: includes/options/shortcode.config.php:16
+msgid "Insert FAQs"
+msgstr "سؤالات متداول را وارد کنید"
+
+#: includes/options/shortcode.config.php:21
+msgid "Template"
+msgstr "قالب"
+
+#: includes/options/shortcode.config.php:23
+msgid "List"
+msgstr "فهرست"
+
+#: includes/options/shortcode.config.php:24
+msgid "Accordion"
+msgstr "آکاردئون"
+
+#: includes/options/shortcode.config.php:25
+msgid "Block"
+msgstr "بلوک"
+
+#: includes/options/shortcode.config.php:32
+msgid "Faq Category"
+msgstr "سؤالات متداول"
+
+#: includes/options/shortcode.config.php:43
+msgid "Use Search?"
+msgstr "از جستجو استفاده کنید ؟"
+
+#: includes/options/shortcode.config.php:49
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: includes/options/shortcode.config.php:64
+msgid "Icon Color"
+msgstr "رنگ آیکون"
+
+#: includes/options/shortcode.config.php:71
+msgid "Icon Background Color"
+msgstr "آیکون رنگ پس زمینه"
+
+#: includes/skelet/classes/framework.class.php:197
+msgid "Success. Imported backup options."
+msgstr "موفقیت امیز .  گزینه های پشتیبان وارد شده"
+
+#: includes/skelet/classes/framework.class.php:202
+msgid "Default options restored."
+msgstr "گزینه های پیش فرض بازگشته اند."
+
+#: includes/skelet/classes/framework.class.php:221
+msgid "Default options restored for only this section."
+msgstr "گزینه های پیش فرض برای این بخش بازسازی شده اند."
+
+#: includes/skelet/classes/framework.class.php:405
+msgid "Settings saved."
+msgstr "تنظیمات ذخیره شد."
+
+#: includes/skelet/classes/framework.class.php:406
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: includes/skelet/classes/framework.class.php:406
+msgid "Saving..."
+msgstr "ذخیره ...."
+
+#: includes/skelet/classes/framework.class.php:407
+msgid "Restore"
+msgstr "بازگرداندن"
+
+#: includes/skelet/classes/options.class.php:126
+msgid "CONFIG"
+msgstr ""
+
+#: includes/skelet/classes/options.class.php:132
+msgid "USAGE"
+msgstr "استفاده"
+
+#: includes/skelet/classes/options.class.php:138
+msgid "VALUE"
+msgstr "مقدار"
+
+#: includes/skelet/classes/options.class.php:214
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: includes/skelet/classes/shortcode.class.php:83
+#: includes/skelet/classes/shortcode.class.php:91
+#: includes/skelet/fields/textarea/textarea.php:29
+msgid "Add Shortcode"
+msgstr "افزودن شورت کد"
+
+#: includes/skelet/classes/shortcode.class.php:93
+msgid "Select a shortcode"
+msgstr "انتخاب یک شروت کد"
+
+#: includes/skelet/classes/shortcode.class.php:109
+msgid "Insert Shortcode"
+msgstr "وارد کردن شورت کد"
+
+#: includes/skelet/fields/background/background.php:32
+#: includes/skelet/fields/background/background.php:33
+#: includes/skelet/fields/upload/upload.php:25
+#: includes/skelet/fields/upload/upload.php:26
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: includes/skelet/fields/background/background.php:34
+#: includes/skelet/fields/upload/upload.php:27
+msgid "Use Image"
+msgstr "از تصویر استفاده کنید"
+
+#: includes/skelet/fields/backup/backup.php:22
+msgid "Import a Backup"
+msgstr "یک پشتیبان وارد کنید"
+
+#: includes/skelet/fields/backup/backup.php:23
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: includes/skelet/fields/backup/backup.php:28
+msgid "Export and Download Backup"
+msgstr "صادرات و دانلود پشتیبان گیری"
+
+#: includes/skelet/fields/backup/backup.php:29
+msgid "or"
+msgstr "یا"
+
+#: includes/skelet/fields/backup/backup.php:30
+msgid "!!! Reset All Options !!!"
+msgstr "!!! بازنشانی تمام گزینه ها !!!"
+
+#: includes/skelet/fields/backup/backup.php:31
+msgid "Please be sure for reset all of framework options."
+msgstr "لطفا مطمئن شوید که تمام گزینه های چارچوب را بازنشانی کنید."
+
+#: includes/skelet/fields/gallery/gallery.php:23
+msgid "Add Gallery"
+msgstr "اضافه کردن گالری"
+
+#: includes/skelet/fields/gallery/gallery.php:24
+msgid "Edit Gallery"
+msgstr "ویرایش گالری"
+
+#: includes/skelet/fields/gallery/gallery.php:25
+msgid "Clear"
+msgstr "پاک کردن"
+
+#: includes/skelet/fields/group/group.php:23
+msgid "Adding"
+msgstr "اضافه كردن"
+
+#: includes/skelet/fields/group/group.php:45
+#: includes/skelet/fields/group/group.php:77
+msgid "Remove"
+msgstr "حذف کنید"
+
+#: includes/skelet/fields/icon/icon.php:27
+#: includes/skelet/functions/actions.php:55
+msgid "Add Icon"
+msgstr "اضافه کردن آیکون"
+
+#: includes/skelet/fields/icon/icon.php:28
+msgid "Remove Icon"
+msgstr "حذف آیکون"
+
+#: includes/skelet/fields/image/image.php:24
+msgid "Add Image"
+msgstr "تصویر اضافه کن"
+
+#: includes/skelet/fields/sorter/sorter.php:26
+msgid "Enabled Modules"
+msgstr "ماژول های فعال"
+
+#: includes/skelet/fields/sorter/sorter.php:27
+msgid "Disabled Modules"
+msgstr "ماژول های غیر فعال"
+
+#: includes/skelet/fields/switcher/switcher.php:22
+msgid "on"
+msgstr "فعال"
+
+#: includes/skelet/fields/switcher/switcher.php:22
+msgid "off"
+msgstr "غیرفعال"
+
+#: includes/skelet/fields/typography/typography.php:75
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: includes/skelet/fields/typography/typography.php:81
+msgid "Google Fonts"
+msgstr ""
+
+#: includes/skelet/fields/typography/typography.php:109
+#: includes/skelet/functions/actions.php:30
+msgid "Error! Can not load json file."
+msgstr "خطا! فایل json بارگیری نمیشود"
+
+#: includes/skelet/functions/actions.php:56
+msgid "Search a Icon..."
+msgstr "جستجو در یک آیکون ..."
+
+#: includes/skelet/functions/actions.php:57
+msgid "Loading..."
+msgstr "بارگذاری..."
+
+#: includes/skelet/functions/helpers.php:50
+msgid "This field class is not available!"
+msgstr ""
+
+#: includes/skelet/functions/helpers.php:610
+msgid "Select media"
+msgstr "رسانه را انتخاب کنید"
+
+#: includes/skelet/functions/helpers.php:659
+#, php-format
+msgid "The option type <code>%s</code> is not yet implemented"
+msgstr ""
+
+#: includes/skelet/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr "لطفا یک آدرس ایمیل معتبر بنویسید!"
+
+#: includes/skelet/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr "لطفا اطلاعات عددی را بنویسید"
+
+#: includes/skelet/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr "خطا فاجعه این فیلد مورد نیاز است!"
+
+#: public/partials/webdevelope-accordion-faq-public-accordion.php:6
+#: public/partials/webdevelope-accordion-faq-public-block.php:6
+#: public/partials/webdevelope-accordion-faq-public-list.php:6
+msgid "No Faq Found"
+msgstr "هیچ فایلی یافت نشد"
+
+#: public/partials/webdevelope-accordion-faq-public-accordion.php:27
+#: public/partials/webdevelope-accordion-faq-public-block.php:31
+#: public/partials/webdevelope-accordion-faq-public-list.php:16
+msgid "Search..."
+msgstr "جستجو کردن..."
+
+#: public/partials/webdevelope-accordion-faq-public-list.php:64
+#: public/partials/webdevelope-accordion-faq-public-list.php:97
+msgid "Back To Top"
+msgstr "بازگشت به بالا"
+
+#. Plugin Name of the plugin/theme
+msgid "iProDev Accordion Faq"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Address user concerns and increase your site conversions with iProDev FAQs"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "iProDev"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.webdevelope.net"
+msgstr ""
